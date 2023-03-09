@@ -1,4 +1,4 @@
 #!/bin/bash
 pwd
-$ wc -l file
- not allowed to use backticks, &&, || or ;
+./0-current_working_directory
+
