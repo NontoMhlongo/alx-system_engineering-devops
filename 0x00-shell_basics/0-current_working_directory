@@ -1,2 +1,4 @@
-#!bin/bash
+#!/bin/bash
 pwd
+$ wc -l file
+ not allowed to use backticks, &&, || or ;
