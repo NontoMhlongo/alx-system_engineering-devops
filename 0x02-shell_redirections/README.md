@@ -1,1 +1,1 @@
-Describing what each project mean
+Instruction for the script
