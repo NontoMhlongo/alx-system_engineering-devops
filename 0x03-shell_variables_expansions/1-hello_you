@@ -1,2 +1,2 @@
 #!/bin/bash
-echo SNAME "hello user"
+echo hello $USER
