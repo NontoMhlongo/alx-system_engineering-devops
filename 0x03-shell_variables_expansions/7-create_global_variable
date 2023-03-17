@@ -1,2 +1,2 @@
 #!/bin/bash
-setvar("BEST") value("School")
+setvar name("BEST") value("School")
