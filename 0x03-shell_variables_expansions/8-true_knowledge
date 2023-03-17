@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv ((128 + 1)) "\n" TRUEKNOWLEDGE
+echo ((128 + 1)) "\n" TRUEKNOWLEDGE
